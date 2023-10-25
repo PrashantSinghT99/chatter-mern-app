@@ -22,11 +22,11 @@ Routes Create chat with name and users
 
 <img width="955" alt="image" src="https://github.com/PrashantSinghT99/chatter-mern-app/assets/52065013/13b6aba8-6579-4f9a-a972-373752b7e47c">
 
-Manage Chat
+Manage Chat/Group chat
 
 <img width="960" alt="image" src="https://github.com/PrashantSinghT99/chatter-mern-app/assets/52065013/d86f970c-ca65-487a-adcf-04977c9e47e1">
 
 
-Real-Time Chat
+Real-Time Chat gets fetch on basis of logged in user
 
 <img width="956" alt="image" src="https://github.com/PrashantSinghT99/chatter-mern-app/assets/52065013/4747484b-d548-4291-9438-71eca37ae56c">
