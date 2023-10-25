@@ -5,7 +5,9 @@ Full stack mern chat app implement one to one and group real time chat features.
 Frontend-React, React Boostrap
 Backend-Express, MongoDB
 
+Home Page
 Login and Register
+Two routes one for login with credentials or guest login and other for register with profile pic uploaded in cloudinary.
 
 <img width="960" alt="image" src="https://github.com/PrashantSinghT99/chatter-mern-app/assets/52065013/e30699a6-564c-4664-8b44-32f934d9e68a">
 <img width="960" alt="image" src="https://github.com/PrashantSinghT99/chatter-mern-app/assets/52065013/2a122035-4f94-4c75-a694-eea4de968999">
