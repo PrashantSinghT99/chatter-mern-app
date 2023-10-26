@@ -24,6 +24,8 @@ Routes Create chat with name and users
 
 Manage Chat/Group chat
 
+Features: handleGroupNameUpdate,handleGroupUserDelete,handle search,handleAddUser,handleRemove
+
 <img width="960" alt="image" src="https://github.com/PrashantSinghT99/chatter-mern-app/assets/52065013/d86f970c-ca65-487a-adcf-04977c9e47e1">
 
 
